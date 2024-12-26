@@ -1,2 +1,2 @@
-API_KEY = "AIzaSyCa5QS9VyvDHika1tEG2D9IKiJaO0WLiWI"
+API_KEY = ""
 TAVIL_API_KEY = "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"
